@@ -26,12 +26,6 @@ A Flutter application integrating **Google Maps**, **Places API**, and **Directi
 
 ---
 
-## 📱 App Preview
-
-> *(Add screenshots or GIFs here if you have them)*  
-> Example: `assets/screenshot1.png`, `assets/screenshot2.gif`
-
----
 
 ## ⚙️ Setup Instructions
 
